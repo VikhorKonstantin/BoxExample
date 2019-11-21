@@ -1,0 +1,10 @@
+﻿*.iml
+*.class
+.DS_Store/
+.idea/
+out/
+lib/
+log/
+target/
+classes/
+node_modules/
